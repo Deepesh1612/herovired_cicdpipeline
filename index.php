@@ -1,7 +1,7 @@
 <h1>
-hello deepesh \n 
-from Dev branch to prod branch push \n
-git checkout and copy \n
-index file \n
-2nd attempt \n
+Hello Deepesh ||
+From Dev branch to prod branch push ||
+Git checkout and copy ||
+Index file ||
+3rd attempt
 </h1>

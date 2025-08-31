@@ -1,7 +1,3 @@
 <h1>
-Deepesh Deepesh =||
-		************
-  		||||
-  		***********
-9th  Attempt
+Deepesh Deepesh 
 </h1>
